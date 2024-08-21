@@ -1,9 +1,9 @@
 // ignore_for_file: use_build_context_synchronously, prefer_const_constructors
 
-import 'package:Journix/nav_pages/fashionsale.dart';
-import 'package:Journix/auth_pages/forgot_pass.dart';
-import 'package:Journix/services/auth.dart';
-import 'package:Journix/auth_pages/sign_auth.dart';
+import 'package:TKPH360/fashionsale.dart';
+import 'package:TKPH360/forgot_pass.dart';
+import 'package:TKPH360/auth.dart';
+import 'package:TKPH360/sign_auth.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
