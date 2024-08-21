@@ -1,6 +1,3 @@
-import 'package:TKPH360/bagpage.dart';
-import 'package:TKPH360/profilepage.dart';
-import 'package:TKPH360/shoppage.dart';
 import 'package:flutter/material.dart';
 
 class FashionSalePage extends StatefulWidget {
