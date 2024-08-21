@@ -1,6 +1,6 @@
-import 'package:Journix/auth_pages/login_page.dart';
-import 'package:Journix/nav_pages/fashionsale.dart';
-import 'package:Journix/services/database.dart';
+import 'package:TKPH360/login_page.dart';
+import 'package:TKPH360/fashionsale.dart';
+import 'package:TKPH360/database.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/services.dart';
 import 'package:google_sign_in/google_sign_in.dart';
