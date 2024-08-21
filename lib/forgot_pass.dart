@@ -1,6 +1,6 @@
 // ignore_for_file: prefer_const_constructors, avoid_unnecessary_containers, use_build_context_synchronously, unnecessary_new
 
-import 'package:Journix/auth_pages/sign_auth.dart';
+import 'package:TKPH360/sign_auth.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 
